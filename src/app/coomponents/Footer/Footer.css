@@ -1,0 +1,42 @@
+footer{
+    background: #232536;
+
+}
+.footir_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px 0;
+    margin-top: 50px;
+}
+.img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:20px;
+}
+.footir_all p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.footir_all h3{
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-top: 10px;
+    
+    }
+
+    .img_all svg{
+        color: white;
+        font-size: 30px;
+    }
