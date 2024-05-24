@@ -23,9 +23,9 @@ const Navbar = () => {
                          <Link href={'/About'}>AboutUs</Link>
                             </li>
                             <li>
-                            <a href="" className="">Register</a>
+                        <Link href={'/Admin'}>Account</Link>
                             </li>
-                            <button>Login</button>
+                           <Link href={'/Login'}> <button>Login</button></Link>
                         </ul>
                     </nav>
 
