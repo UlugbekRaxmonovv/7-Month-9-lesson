@@ -25,7 +25,7 @@ const Navbar = () => {
                             <li>
                         <Link href={'/Admin'}>Account</Link>
                             </li>
-                           <Link href={'/Login'}> <button>Login</button></Link>
+                       <button>Login</button>
                         </ul>
                     </nav>
 
